@@ -20,6 +20,12 @@ Un radar ASCII haute définition qui calcule en temps réel la position des sate
 
 ---
 
+## SCREENSHOTS 
+
+<img width="1920" height="1080" alt="735_Sat" src="https://github.com/user-attachments/assets/ec440323-a6e7-4a10-854f-22739b803d53" />
+
+---
+
 ## 📖 À propos
 
 Ce projet permet de **visualiser en temps réel** les satellites en orbite autour de la Terre, directement depuis un terminal. Il utilise :
